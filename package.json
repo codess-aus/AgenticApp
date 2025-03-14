@@ -1,0 +1,16 @@
+{
+  "name": "agentic-app",
+  "version": "0.1.0",
+  "description": "A simple Vue app",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8"
+  }
+}
